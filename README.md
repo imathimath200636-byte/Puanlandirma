@@ -1,0 +1,3 @@
+# Puanlandirma
+
+Puanlandirma projesi.
